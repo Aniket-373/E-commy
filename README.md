@@ -26,7 +26,7 @@ E-commy is a simple e-commerce website that displays products fetched from the [
    cd E-commy
 3. Open index.html in a browser to start using the app.
 
-🛒 How It Works
+## 🛒 How It Works
 Products are fetched from DummyJSON and displayed on the homepage.
 
 Users can add products to the cart, which is stored in local storage.
@@ -35,16 +35,16 @@ The cart page retrieves items from local storage to display them.
 
 Users can remove products from the cart.
 
-💡 Future Improvements
+## 💡 Future Improvements
 Implement a backend for user authentication.
 
 Add a checkout process with payment integration.
 
 Improve UI/UX with animations and better design.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo, make changes, and submit a pull request.
 
-⭐ Star this repository if you like it! 🚀
+## ⭐ Star this repository if you like it! 🚀
 
 Let me know if you need any modifications! 😊
