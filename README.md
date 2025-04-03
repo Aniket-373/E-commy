@@ -1,6 +1,7 @@
 # E-commy
 
 E-commy is a simple e-commerce website that displays products fetched from the [DummyJSON API](https://dummyjson.com/products) and uses local storage to manage cart functionality. This project is built using HTML, CSS, and JavaScript.
+Live Here 👉 [E-commy](https://e-commy.vercel.app/)
 
 ## 🚀 Features
 
